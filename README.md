@@ -57,7 +57,7 @@ Here -:
 
 ```
 
-cd insta-cracker
+cd instagram-cracker
 
 bash setup.sh
 
