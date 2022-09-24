@@ -96,11 +96,9 @@ https://instagram.com/hackers__tech?utm_medium=copy_link)
 
 ---
 
-|share|our|repo |
+|share 
 
-|----|----|----|
 
-|give|star to | repo |
 
 |follow| for |more |
 
